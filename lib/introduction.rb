@@ -1,5 +1,5 @@
-def say_name(name)
-  puts "Hi #{name}"
+def introduction(name)
+  puts "Hi, my name is #{name}"
 end
 
-say_name("Chris")
+say_name("Josh")
