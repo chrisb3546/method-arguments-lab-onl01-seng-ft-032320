@@ -1,5 +1,5 @@
 def say_name(name)
-  puts Hi #{name}
+  puts "Hi #{name}"
 end
 
-say_name(Chris)
+say_name("Chris")
